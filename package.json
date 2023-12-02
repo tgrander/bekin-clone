@@ -1,0 +1,13 @@
+{
+  "name": "bekin",
+  "version": "1.0.0",
+  "description": "Monorepo for BeKIN Next.js apps",
+  "main": "index.js",
+  "repository": "git@github.com:tgrander/bekin.git",
+  "author": "Trey Granderson",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
